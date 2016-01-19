@@ -1,0 +1,25 @@
+{
+  "name": "dabbble",
+  "version": "1.0.0",
+  "description": "API_calls",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.0"
+  },
+  "devDependencies": {
+    "gulp-serve": "^1.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheeGrassHopper/dribbble_api.git"
+  },
+  "author": "Alwan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheeGrassHopper/dribbble_api/issues"
+  },
+  "homepage": "https://github.com/TheeGrassHopper/dribbble_api#readme"
+}
